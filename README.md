@@ -24,8 +24,9 @@ and exploring AI-driven product ideas.
 ### 🚀 Featured Projects
 
 
-**[Project 1 Name](https://github.com/AdityaAgivale/project-1-repo)**
-One-line description of what it does and who it's for.
+**[Medical-Chatbot-Generative-AI
+][(https://github.com/AdityaAgivale/Medical-Chatbot-Generative-AI)]**
+AI-powered medical chatbot that uses Retrieval-Augmented Generation (RAG) to provide accurate, context-aware answers from medical knowledge.
 `React` `Node.js` `MongoDB` — [Live Demo](#)
 
 
