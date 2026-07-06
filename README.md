@@ -23,21 +23,11 @@ and exploring AI-driven product ideas.
 
 ### 🚀 Featured Projects
 
-<!-- Replace each block below with your real project details once repos are pushed & (ideally) deployed -->
 
 **[Project 1 Name](https://github.com/AdityaAgivale/project-1-repo)**
 One-line description of what it does and who it's for.
 `React` `Node.js` `MongoDB` — [Live Demo](#)
 
-**[Project 2 Name](https://github.com/AdityaAgivale/project-2-repo)**
-One-line description of what it does and who it's for.
-`PHP` `MySQL` — [Live Demo](#)
-
-**[Project 3 Name](https://github.com/AdityaAgivale/project-3-repo)**
-One-line description of what it does and who it's for.
-`Python` `AI Integration` — [Live Demo](#)
-
----
 
 ### 📈 GitHub Stats
 
