@@ -25,17 +25,16 @@ and exploring AI-driven product ideas.
 
 
 **Medical-Chatbot-Generative-AI (https://github.com/AdityaAgivale/Medical-Chatbot-Generative-AI)**
-
 AI-powered medical chatbot that uses Retrieval-Augmented Generation (RAG) to provide accurate, context-aware answers from medical knowledge.
 `React` `Node.js` `MongoDB` — [Live Demo](#)
 
-**ai-saas-platform (https://github.com/AdityaAgivale/ai-saas-platform)**
 
+**ai-saas-platform (https://github.com/AdityaAgivale/ai-saas-platform)**
 Full-stack AI SaaS platform with auth, AI chat, and Stripe subscriptions.
 `React` `Node.js` `MongoDB` — [Live Demo](https://ai-saas-platform-brown.vercel.app/)
 
-**restaurant-ordering-platform (https://github.com/AdityaAgivale/restaurant-ordering-platform)**
 
+**restaurant-ordering-platform (https://github.com/AdityaAgivale/restaurant-ordering-platform)**
 A full-stack web application for seamless restaurant ordering, menu management, and order tracking.
 `React` `Node.js` `MongoDB` — [Live Demo](https://restaurant-ordering-platform-zeta.vercel.app/)
 
