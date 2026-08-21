@@ -38,6 +38,16 @@ Full-stack AI SaaS platform with auth, AI chat, and Stripe subscriptions.
 A full-stack web application for seamless restaurant ordering, menu management, and order tracking.
 `React` `Node.js` `MongoDB` — [Live Demo](https://restaurant-ordering-platform-zeta.vercel.app/)
 
+
+**multivendor-ecommerce (https://github.com/AdityaAgivale/multivendor-ecommerce)**
+A full-stack multi-vendor e-commerce platform codebase featuring functionality for multiple sellers to manage products and customers to purchase items.
+`React` `Node.js` `MongoDB` — [Live Demo](https://multivendor-ecommerce-dun.vercel.app/)
+
+
+**kelonex-website (https://github.com/AdityaAgivale/kelonex-website)**
+This is a web development repository for a site titled "Kelonex," likely serving as a business or portfolio landing page.
+`React` `Node.js` `MongoDB` — [Live Demo](https://kelonex-website-1kpo.vercel.app/)
+
 ### 📈 GitHub Stats
 
 <p align="center">
