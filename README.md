@@ -51,7 +51,7 @@ This is a web development repository for a site titled "Kelonex," likely serving
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdityaAgivale&show_icons=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AdityaAgivale&show_icons=true&theme=default" alt="GitHub Stats" />
 </div>
 
 ---
